@@ -18,3 +18,6 @@ Dedicated to my redditgifts secret santa, who sent me 5 of these Digispark board
  
 ## Video
 http://youtu.be/Y36fSgCtXEQ
+
+## Audio Recording/Visualization 
+https://soundcloud.com/michael-wayne-vartan
