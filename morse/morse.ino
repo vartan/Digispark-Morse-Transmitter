@@ -16,7 +16,7 @@
 #define MESSAGE     "THANK YOU"   // In ALPHANUMERIC ALLCAPS
 
 
-#define WPM(x)    (92/13)*x
+#define WPM(x)    (92*13)/x
 
 void setup() {
   pinMode(LED, OUTPUT);
